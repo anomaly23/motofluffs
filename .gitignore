@@ -1,0 +1,49 @@
+
+# === Large/binary files — DO NOT TRACK ===
+# RAW photos
+*.ARW
+*.arw
+*.RAW
+*.raw
+*.CR2
+*.cr2
+*.NEF
+*.nef
+*.DNG
+*.dng
+# Video
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.avi
+*.AVI
+*.mkv
+*.m4v
+# Audio
+*.wav
+*.WAV
+*.mp3
+*.aac
+*.flac
+*.m4a
+# Design source files
+*.psd
+*.PSD
+*.ai
+*.AI
+*.tiff
+*.TIFF
+*.tif
+*.TIF
+# Blender
+*.blend
+*.blend1
+# Archives (large)
+*.zip
+*.tar.gz
+*.rar
+# OS files
+.DS_Store
+Thumbs.db
+
